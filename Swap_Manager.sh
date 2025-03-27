@@ -13,8 +13,8 @@ usage() {
     echo "  $0 [option] [parameter]"
     echo ""
     echo "option:"
-    echo "  create <(MB)>  		create new swap"
-    echo "  modify <(MB)>  		modify exist swap"
+    echo "  create <(MB)>      create new swap"
+    echo "  modify <(MB)>      modify exist swap"
     echo "  delete            	delete all swap"
     echo "  status            	show swap status"
     exit 1
